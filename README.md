@@ -9,6 +9,9 @@ Software Developer specializing in **Backend Development**, **Generative AI**, *
 
 ### 💡 What I Do
 
+- **Backend Development**  
+  Design and build scalable RESTful APIs and microservices using **Node.js**, **Express.js**, Flask**, and FastAPI**, integrating secure authentication, role-based access control, and real-time features.
+
 - **Cloud & DevOps**  
   Deploy and scale applications on **AWS (EC2, ECS, Lambda, ALB, EKS)** and automate infrastructure with **Terraform** and **Docker**.
 
