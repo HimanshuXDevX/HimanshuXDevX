@@ -36,4 +36,4 @@ Software Developer specializing in **Backend Development**, **Generative AI**, *
 ---
 
 📫 **Let’s Connect**  
-[LinkedIn](https://www.linkedin.com/in/himanshuk88) • [GitHub](https://github.com/StArLorDd88) • 55khimanshu@gmail.com
+[LinkedIn](https://www.linkedin.com/in/himanshuk88) • [GitHub](https://github.com/HimanshuXDevX) • 55khimanshu@gmail.com
